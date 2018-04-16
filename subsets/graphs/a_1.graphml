@@ -3,94 +3,31 @@
 <graph edgedefault="undirected"><node id="AREA 1"/>
 <node id="624"/>
 <node id="626"/>
-<node id="649"/>
-<node id="480"/>
 <node id="210"/>
-<node id="821"/>
-<node id="220"/>
 <node id="745"/>
-<node id="437"/>
-<node id="888"/>
 <node id="341"/>
 <node id="230"/>
-<node id="951"/>
-<node id="930"/>
 <node id="740"/>
 <node id="330"/>
 <node id="440"/>
-<node id="860"/>
-<node id="946"/>
-<node id="310"/>
-<node id="237"/>
-<node id="442"/>
-<node id="350"/>
-<node id="755"/>
-<node id="121"/>
-<node id="331"/>
-<node id="236"/>
-<node id="623"/>
-<node id="761"/>
-<node id="815"/>
-<node id="410"/>
-<node id="662"/>
-<node id="900"/>
 <node id="510"/>
-<node id="901"/>
-<node id="886"/>
-<node id="420"/>
-<node id="956"/>
-<node id="354"/>
-<node id="664"/>
-<node id="320"/>
-<node id="910"/>
-<node id="850"/>
-<node id="625"/>
-<node id="352"/>
-<node id="762"/>
-<node id="668"/>
-<node id="351"/>
-<node id="648"/>
 <edge source="AREA 1" target="624">
   <data key="d0">10382</data>
 </edge>
 <edge source="AREA 1" target="626">
   <data key="d0">2845</data>
 </edge>
-<edge source="AREA 1" target="649">
-  <data key="d0">590</data>
-</edge>
-<edge source="AREA 1" target="480">
-  <data key="d0">1378</data>
-</edge>
 <edge source="AREA 1" target="210">
   <data key="d0">3680</data>
 </edge>
-<edge source="AREA 1" target="821">
-  <data key="d0">76</data>
-</edge>
-<edge source="AREA 1" target="220">
-  <data key="d0">529</data>
-</edge>
 <edge source="AREA 1" target="745">
   <data key="d0">2913</data>
-</edge>
-<edge source="AREA 1" target="437">
-  <data key="d0">157</data>
-</edge>
-<edge source="AREA 1" target="888">
-  <data key="d0">909</data>
 </edge>
 <edge source="AREA 1" target="341">
   <data key="d0">3195</data>
 </edge>
 <edge source="AREA 1" target="230">
   <data key="d0">3832</data>
-</edge>
-<edge source="AREA 1" target="951">
-  <data key="d0">168</data>
-</edge>
-<edge source="AREA 1" target="930">
-  <data key="d0">2002</data>
 </edge>
 <edge source="AREA 1" target="740">
   <data key="d0">2586</data>
@@ -101,100 +38,7 @@
 <edge source="AREA 1" target="440">
   <data key="d0">7532</data>
 </edge>
-<edge source="AREA 1" target="860">
-  <data key="d0">528</data>
-</edge>
-<edge source="AREA 1" target="946">
-  <data key="d0">1473</data>
-</edge>
-<edge source="AREA 1" target="310">
-  <data key="d0">1977</data>
-</edge>
-<edge source="AREA 1" target="237">
-  <data key="d0">85</data>
-</edge>
-<edge source="AREA 1" target="442">
-  <data key="d0">1915</data>
-</edge>
-<edge source="AREA 1" target="350">
-  <data key="d0">1075</data>
-</edge>
-<edge source="AREA 1" target="755">
-  <data key="d0">134</data>
-</edge>
-<edge source="AREA 1" target="121">
-  <data key="d0">432</data>
-</edge>
-<edge source="AREA 1" target="331">
-  <data key="d0">562</data>
-</edge>
-<edge source="AREA 1" target="236">
-  <data key="d0">499</data>
-</edge>
-<edge source="AREA 1" target="623">
-  <data key="d0">392</data>
-</edge>
-<edge source="AREA 1" target="761">
-  <data key="d0">544</data>
-</edge>
-<edge source="AREA 1" target="815">
-  <data key="d0">81</data>
-</edge>
-<edge source="AREA 1" target="410">
-  <data key="d0">94</data>
-</edge>
-<edge source="AREA 1" target="662">
-  <data key="d0">219</data>
-</edge>
-<edge source="AREA 1" target="900">
-  <data key="d0">253</data>
-</edge>
 <edge source="AREA 1" target="510">
   <data key="d0">2519</data>
-</edge>
-<edge source="AREA 1" target="901">
-  <data key="d0">269</data>
-</edge>
-<edge source="AREA 1" target="886">
-  <data key="d0">140</data>
-</edge>
-<edge source="AREA 1" target="420">
-  <data key="d0">1439</data>
-</edge>
-<edge source="AREA 1" target="956">
-  <data key="d0">432</data>
-</edge>
-<edge source="AREA 1" target="354">
-  <data key="d0">1729</data>
-</edge>
-<edge source="AREA 1" target="664">
-  <data key="d0">183</data>
-</edge>
-<edge source="AREA 1" target="320">
-  <data key="d0">79</data>
-</edge>
-<edge source="AREA 1" target="910">
-  <data key="d0">76</data>
-</edge>
-<edge source="AREA 1" target="850">
-  <data key="d0">151</data>
-</edge>
-<edge source="AREA 1" target="625">
-  <data key="d0">142</data>
-</edge>
-<edge source="AREA 1" target="352">
-  <data key="d0">165</data>
-</edge>
-<edge source="AREA 1" target="762">
-  <data key="d0">79</data>
-</edge>
-<edge source="AREA 1" target="668">
-  <data key="d0">210</data>
-</edge>
-<edge source="AREA 1" target="351">
-  <data key="d0">108</data>
-</edge>
-<edge source="AREA 1" target="648">
-  <data key="d0">108</data>
 </edge>
 </graph></graphml>
